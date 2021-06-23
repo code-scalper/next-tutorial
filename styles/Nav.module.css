@@ -1,0 +1,12 @@
+.nav {
+  width: 100%;
+  background: #2c82c9;
+}
+
+.nav ul {
+  display: flex;
+}
+.nav li {
+  margin-right: 1.5rem;
+  color: #fff;
+}

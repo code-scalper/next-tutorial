@@ -1,0 +1,16 @@
+.content {
+  padding: 1rem;
+}
+
+.posts {
+  display: flex;
+  flex-direction: column;
+}
+
+.posts li {
+  border-bottom: 1px solid #efefef;
+}
+
+.posts li > p:nth-child(1) {
+  font-weight: bold;
+}
